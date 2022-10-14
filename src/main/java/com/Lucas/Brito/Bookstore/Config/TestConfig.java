@@ -1,4 +1,4 @@
-package com.Lucas.Brito.Bookstore.Config;
+package com.Lucas.Brito.Bookstore.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
